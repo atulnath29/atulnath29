@@ -1,10 +1,19 @@
+<h1 align="center">Hi 👋, I'm Atul NAth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulnath29&label=Profile%20views&color=0e75b6&style=flat" alt="atulnath29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulnath29" alt="atulnath29" /></a> </p>
+
+- 💬 Ask me about **Hi, I’m a passionate developer and tech enthusiast who loves building real-world projects and solving problems through code. 🔭 I’m currently working on full-stack web projects & game tournament portals 🤝 I’m looking to collaborate on innovative web apps and open-source projects 💡 I’m looking for help with advanced backend systems & scalable architecture 🌱 I’m currently learning Java (Jakarta EE), full-stack development & DSA 💬 Ask me about web development, JSP, GitHub, and coding challenges ⚡ Fun fact: I’m a gamer + anime lover, and I enjoy mixing creativity with code 🎮✨**
+
+- 📫 How to reach me **atulnath2909@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-nath-178b2a303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-nath-178b2a303" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/atul__nath__2909?igsh=atqyd21xzgljaznj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/atul__nath__2909?igsh=atqyd21xzgljaznj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/atul__nath__29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/atul__nath__29/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/atul__nath__29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atul__nath__29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulnath29&show_icons=true&locale=en&layout=compact" alt="atulnath29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulnath29&show_icons=true&locale=en" alt="atulnath29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulnath29&" alt="atulnath29" /></p>
