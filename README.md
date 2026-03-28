@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Atul, a passionate developer and tech enthusiast who loves building real-world projects and solving problems through code.<br><br>🔭 I’m currently working on full-stack web projects & game tournament portals<br>🤝 I’m looking to collaborate on innovative web apps and open-source projects<br>💡 I’m looking for help with advanced backend systems & scalable architecture<br>🌱 I’m currently learning Java (Jakarta EE), full-stack development & DSA<br>💬 Ask me about web development, JSP, GitHub, and coding challenges<br>⚡ Fun fact: I’m a gamer + anime lover, and I enjoy mixing creativity with code 🎮✨
+# Hii 👋 I'm Atul Nath ✨
+Hi, I’m  a passionate developer and tech enthusiast who loves building real-world projects and solving problems through code.<br><br>🔭 I’m currently working on full-stack web projects & game tournament portals<br>🤝 I’m looking to collaborate on innovative web apps and open-source projects<br>💡 I’m looking for help with advanced backend systems & scalable architecture<br>🌱 I’m currently learning Java (Jakarta EE), full-stack development & DSA<br>💬 Ask me about web development, JSP, GitHub, and coding challenges<br>⚡ Fun fact: I’m a gamer + anime lover, and I enjoy mixing creativity with code 🎮✨
 
 
 ## 🌐 Socials:
